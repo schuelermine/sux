@@ -1,1 +1,1 @@
-sux(){ cd "/home/$1"; su $1;}
+sux() { cd "/home/$1"; su $1; }
